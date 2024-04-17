@@ -7,10 +7,11 @@
 This dashboard helps the Go-Pizzas understand their customers better. It helps the Business owners understand different patterns and trends in the sales of pizzas through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. 
 
 This Analysis was able to look into the several KPIs which includes 
--Total revenues
--Total Orders and the Order Value
--Avearge Order per day
--Average Pizzas Per Order
+
+- Total revenues
+- Total Orders and the Order Value
+- Avearge Order per day
+- Average Pizzas Per Order
 - Total Quantity of Pizzas sold  
 
 This Dashbaord was succesfully able to answer detailed questions which includes 

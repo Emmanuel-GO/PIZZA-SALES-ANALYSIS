@@ -35,9 +35,40 @@ In our ready collected data a new table has to be created which is named Calende
 - Month Name
 - Quarter
         
-Snap of new calculated column ,
+Snap of new calculated table ,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![tABLE](https://github.com/Emmanuel-GO/gotech/assets/106073701/d625138b-7999-4611-8143-b207687180d5)
+
+
+
+
+Hence Our Data Model looks like this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         
 - Step 15 : New measure was created to find total count of customers.

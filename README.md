@@ -1,4 +1,4 @@
-# PIZZA SALES ANALYSIS
+rge# PIZZA SALES ANALYSIS
 
 ### Dashboard Link :https://app.powerbi.com/groups/me/reports/82eabe1b-0d42-4977-8ece-2accf8e0ebdc/ReportSection2681df53ecf6c16d5dec?experience=power-bi
 
@@ -69,19 +69,18 @@ A card visual was used to represent Total Revenue.
 ![Measures 1tr](https://github.com/Emmanuel-GO/gotech/assets/106073701/e3836d4e-e88d-48ad-bf41-5b0b8a96ae6c)
 
  
- - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
+ - New measure was created to calculate Average Order Value
  
- Following DAX expression was written to find total distance,
+ Following DAX expression was written to find Average Order Value,
  
-         Total Distance Travelled = SUM(airline_passenger_satisfaction[Flight Distance])
+         Average Order Value = DIVIDE([Total Revenue],[Total Orders])
     
- A card visual was used to represent this total distance.
+ A card visual was used to represent this Average Order Value
  
  
  ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
  
- - Step 18 : The report was then published to Power BI Service.
- 
+
  
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
 

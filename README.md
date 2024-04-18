@@ -78,7 +78,7 @@ A card visual was used to represent Total Revenue.
  A card visual was used to represent this Average Order Value
  
  
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
+
  
 
  

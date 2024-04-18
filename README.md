@@ -86,91 +86,90 @@ A card visual was used to represent Total Revenue.
 
 # Snapshot of Dashboard 
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![MY_PIZZA_PROJECT 1 ,mk_page-0001](https://github.com/Emmanuel-GO/gotech/assets/106073701/f3384501-d2b7-4061-9a54-45db8a2cd89a)
+
 
 
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+Based on the key performance indicators (KPIs) provided in the analysis, several important insights
+can be derived which can help stakeholders gain valuable insights into the business's performance,
+customer behavior, and areas for improvement. These insights can inform strategic decision-making
+and help drive growth and profitability in the pizza business. Below are insights and
+recommendations:
 
-Following inferences can be drawn from the dashboard;
+- Revenue Trends:
+The monthly revenue trend shows that July is the peak month for revenue, followed by March and
+November. This insight suggests that there are certain seasonal trends in pizza sales that should be
+considered for planning and resource allocation.
 
-### [1] Total Number of Customers = 129880
-
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
-
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
-
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
-
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
+- Order Patterns:
+Fridays are the peak days for orders, and the peak times for orders are between 12 PM to 1 PM on
+weekdays and 5 PM to 8 PM on weekends. Understanding these order patterns can help optimize
+staffing and resource allocation to meet customer demand during peak hours.
 
 
-           thus, higher number of customers are neutral/unsatisfied.
+- Category Performance:
+The analysis highlights that the Classic category generates the most revenue, followed by Supreme
+and Chicken. This insight can inform marketing and promotional strategies to further capitalize on
+the popularity of these categories.
+
+
+- Size Preferences:
+Large pizzas generate the highest revenue, followed by medium and small sizes. Understanding size
+preferences can help optimize inventory management and pricing strategies to maximize profitability
+
+   Top and Worst Selling Pizzas:
+The top-selling pizzas by revenue are Thai_ckn, Bbq_ckn, Call_Ckn, Classic_dix, and Spicy_ital.
+Conversely, the worst-selling pizzas by revenue are Brie_carre, Green_garden, spinach_super,
+mediterraneo, and spin_pesto. This insight can inform product development and marketing
+strategies to promote top-selling pizzas and improve the performance of low-performing ones.
+
+
+-  Average Order Metrics:
+The average order value is $38.31, and the average number of pizzas per order is 2.32. These metrics
+provide insights into customer behavior and spending patterns, which can inform pricing strategies
+and promotions to increase average order value and encourage customers to add more items to their orders.
            
-### [2] Average Ratings
+# Recommendations
 
-    a) Baggage Handling - 3.63/5
-    b) Check-in Service - 3.31/5
-    c) Cleanliness - 3.29/5
-    d) Ease of online booking - 2.88/5
-    e) Food & Drink - 3.21/5
-    f) In-flight Entertainment - 3.36/5
-    g) In-flight service - 3.64/5
-    h) In-flight Wifi service - 2.81/5
-    i) Leg room service - 3.37/5
-    j) On-board service - 3.38/5
-    k) Online boarding - 3.33/5
-    l) Seat comfort - 3.44/5
-    m) Departure & arrival convenience - 3.22/5
-  
-  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
-  
-  These ratings will change if different visual filters will be applied.  
-  
-  ### [3] Average Delay 
-  
-      a) Average delay in arrival(minutes) - 15.09
-      b) Average delay in departure(minutes) - 14.71
-Average delay will change if different visual filters will be applied.
+-  Increase Average Order Value:
+The average order value is $38.31. To increase this metric, consider implementing upselling or cross-
+selling strategies to encourage customers to add more items to their orders. This could include
+promoting combo deals, add-ons, or higher-priced items.
 
- ### [4] Some other insights
- 
- ### Class
- 
- 1.1) 47.87 % customers travelled by Business class.
- 
- 1.2) 44.89 % customers travelled by Economy class.
- 
- 1.3) 7.25 % customers travelled by Economy plus class.
- 
-         thus, maximum customers travelled by Business class.
- 
- ### Age Group
- 
- 2.1)  21.69 % customers belong to '0-25' age group.
- 
- 2.2)  52.44 % customers belong to '25-50' age group.
- 
- 2.3)  25.57 % customers belong to '50-75' age group.
- 
- 2.4)  0.31 % customers belong to '75-100' age group.
- 
-         thus, maximum customers belong to '25-50' age group.
-         
-### Customer Type
+- Improve Average Pizza per Order:
+The average number of pizzas per order is 2.32. Encouraging customers to add more pizzas to their
+orders can help increase this metric. Offering bundle deals or incentives for ordering multiple pizzas
+may be effective strategies.
 
-3.1) 18.31 % customers have customer type 'First time'.
+- Promote Low-Performing Pizza Varieties:
+Identify and promote the low-performing pizza varieties such as Brie_carre, Green_garden,
+spinach_super, mediterraneo, and spin_pesto. Consider running targeted marketing campaigns or
+special promotions to increase sales of these pizzas.
 
-3.2) 81.69 % customers have customer type 'returning'.
-       
-       thus, more customers have customer type 'returning'.
+- Optimize Size Mix:
+Analyse the revenue generated by different pizza sizes and identify opportunities to optimize the size
+mix. For example, if large pizzas are generating the most revenue, consider promoting them more
+prominently or adjusting pricing to encourage more sales of other sizes.
 
-### Type of travel
+- Enhance Sales on Off-Peak Months:
+Focus on increasing sales during the off-peak months, particularly September and October. Consider
+running promotions, launching new menu items, or implementing loyalty programs to attract
+customers during slower periods.
 
-4.1) 69.06 % customers have travel type 'Business'.
+- Improve Efficiency During Peak Times:
+Since Fridays and lunchtime during weekdays are peak times for orders, ensure that operations are
+optimized to handle increased demand efficiently. This may involve streamlining processes, staffing
+appropriately, and ensuring sufficient inventory levels.
 
-4.2) 30.94 % customers have travel type 'Personal'.
+- Diversify Product Offerings:
+Explore opportunities to expand the product offerings to attract a wider range of customers. This
+could include introducing new pizza varieties, offering specialty items, or catering to dietary
+preferences such as vegetarian or vegan options.
 
-        thus, more customers have travel type 'Business'.
+-  Enhance Customer Experience:
+Focus on improving the overall customer experience to encourage repeat business and increase
+customer loyalty. This may involve providing exceptional customer service, ensuring prompt delivery
+times, and soliciting feedback to address any areas for improvement.

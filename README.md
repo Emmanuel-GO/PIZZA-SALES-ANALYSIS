@@ -77,22 +77,18 @@ A card visual was used to represent Total Revenue.
     
  A card visual was used to represent this Average Order Value
  
- 
+ ![Measures 1acfgg](https://github.com/Emmanuel-GO/gotech/assets/106073701/ed9cf017-3f7d-48dc-8cd2-21147335bc63)
 
  
 
  
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
 
-# Snapshot of Dashboard (Power BI Service)
+# Snapshot of Dashboard 
 
 ![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
 
- 
- # Report Snapshot (Power BI DESKTOP)
 
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
 # Insights
 

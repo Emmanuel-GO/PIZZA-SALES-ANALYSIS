@@ -58,15 +58,15 @@ A card visual was used to represent Total Revenue.
 ![Measures](https://github.com/Emmanuel-GO/gotech/assets/106073701/6d1ed6bb-1fc1-4f04-a83a-843d678d1874)
 
         
- - Step 16 : Total Orders
+- Total Orders
  
  Following DAX expression was written to find Total Orders
  
         Total Orders = DISTINCTCOUNT('Order Details'[order_id])
  
- A card visual was used to represent this perecntage.
+ A card visual was used to represent this Total Orders
  
- ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+![Measures 1tr](https://github.com/Emmanuel-GO/gotech/assets/106073701/e3836d4e-e88d-48ad-bf41-5b0b8a96ae6c)
 
  
  - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.

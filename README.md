@@ -40,44 +40,20 @@ Snap of new calculated table ,
 ![tABLE](https://github.com/Emmanuel-GO/gotech/assets/106073701/d625138b-7999-4611-8143-b207687180d5)
 
 
-
-
 Hence Our Data Model looks like this
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![MODEL](https://github.com/Emmanuel-GO/gotech/assets/106073701/9f21421e-561e-4c0e-8dae-7d474bf9d4a1)
 
 
         
-- Step 15 : New measure was created to find total count of customers.
+Different measures was created to find 
 
-Following DAX expression was written for the same,
+- Total Revenue 
+
+Following DAX expression was written to find Total Revenue
         
-        Count of Customers = COUNT(airline_passenger_satisfaction[ID])
+     Total Revenue = SUM('Order Details'[Total Price])
         
-A card visual was used to represent count of customers.
+A card visual was used to represent Total Revenue.
 
 ![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
 

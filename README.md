@@ -27,7 +27,7 @@ This Dashbaord was succesfully able to answer detailed questions which includes
 
 ## DATA MODELLING
 
-In our ready collected data a new table has to be created which is named Calender to Extract 
+Automatically Derived relationships are adjusted to remove and replace unwanted relationships with the required 
 
 - Date
 - Year
@@ -59,7 +59,7 @@ A card visual was used to represent Total Revenue.
 
         
 - Total Orders
- 
+
  Following DAX expression was written to find Total Orders
  
         Total Orders = DISTINCTCOUNT('Order Details'[order_id])
@@ -108,7 +108,6 @@ considered for planning and resource allocation.
 Fridays are the peak days for orders, and the peak times for orders are between 12 PM to 1 PM on
 weekdays and 5 PM to 8 PM on weekends. Understanding these order patterns can help optimize
 staffing and resource allocation to meet customer demand during peak hours.
-
 
 - Category Performance:
 The analysis highlights that the Classic category generates the most revenue, followed by Supreme
